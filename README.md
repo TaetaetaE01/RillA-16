@@ -1,4 +1,5 @@
 ### Hi there 👋
+ ![Main dot image](https://github.com/RillA-16/RillA-16/blob/master/main.gif)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
