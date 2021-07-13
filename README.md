@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center"><img src="https://user-images.githubusercontent.com/68328998/125489801-a904c420-78d4-4f59-af06-fb6015871244.gif"></p>
 
 <h3 align="center">🔧 Tech Stack 🔨</h3>
