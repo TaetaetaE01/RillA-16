@@ -3,8 +3,6 @@
 ![main](https://user-images.githubusercontent.com/68328998/125489801-a904c420-78d4-4f59-af06-fb6015871244.gif)
  </div>
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 <!--
 **RillA-16/RillA-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
