@@ -1,6 +1,6 @@
 ### Hi there 👋
  <div align=center>
-![main](https://user-images.githubusercontent.com/68328998/125489801-a904c420-78d4-4f59-af06-fb6015871244.gif)
+![Main dot image](https://user-images.githubusercontent.com/68328998/125489801-a904c420-78d4-4f59-af06-fb6015871244.gif)
  </div>
  
 <!--
