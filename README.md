@@ -22,10 +22,9 @@
     </br>
  </p>  
  
- <div align="center">
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TaetaetaE01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaetaetaE01&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
   
 <!--
 **RillA-16/RillA-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
