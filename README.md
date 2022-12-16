@@ -22,9 +22,15 @@
     </br>
  </p>  
 
-<div>
-    
+<div align="center">
+ <div align="left>
+              
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaetaetaE01&show_icons=true&theme=tokyonight)
+              
+ </div>           
+ <div align="right>            
+             
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaetaetaE01&layout=compact&theme=tokyonight)
-
+      
+ </div> 
 </div>
