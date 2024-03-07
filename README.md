@@ -22,7 +22,7 @@
     </br>
  </p>  
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaetaetaE01&include_all_commits=true&show_icons=true&theme=tokyonight)  
+ 
  
  <div align=center>
    
